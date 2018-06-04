@@ -26,8 +26,10 @@ github_username:  andrecf
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
+# theme: jekyll-theme-hacker
 # theme: jekyll-theme-merlot
+theme: minima
+# theme: jekyll-theme-awesome
 plugins:
   - jekyll-feed
 
